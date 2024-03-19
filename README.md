@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Philip-Lacava
-- 👀 I’m interested in ... Labor, Data Science, Econometrics
-- 🌱 I’m currently learning ... Forecasting Tequniques R, SQL
-- 💞️ I’m looking to collaborate on ... Building a Sustainable and Just Economy
-- 😄 Pronouns: ... He/Him 
-
-- ⚡ Fun fact: ... 
+- 👀 I’m interested in labor, data science, econometrics
+- 🌱 I’m currently learning forecasting tequniques R, SQL
+- 💞️ I’m looking to collaborate on building a sustainable and just economy
+- 😄 Pronouns:  He/Him 
 
