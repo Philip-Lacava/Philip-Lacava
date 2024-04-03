@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Philip-Lacava
 - 🤔 I’m interested in labor, data science, and econometrics
-- 🌱 I’m currently learning forecasting tequniques R, and SQL
+- 🌱 I’m currently learning time series forecasting, Eviews, and SQL
 - 🏳️‍🌈 Pronouns:  He/Him
 - 🏊‍♂️ Fun fact, I am swimmer and my main stroke is butterfly, but ive been washed up since the plague. 
